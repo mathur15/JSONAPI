@@ -6,10 +6,13 @@
      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
     ----------------------------------------------------------------- 
 
+Creating a JSON API using node and mongo.
 
-Welcome to your Node.js project on Cloud9 IDE!
+Steps:
 
-This chat example showcases how to use `socket.io` with a static `express` server.
+1. Created the model in mongo
+2. Defined the controller functions
+3. Defined the routes which make use of the functions
 
 ## Running the server
 
